@@ -10,7 +10,7 @@ Machine Learning project that classifies SMS/Email messages as Spam or Not Spam.
 - Streamlit
 
 ## Live Demo
-https://email-spam-classifier-hiam.onrender.com/https://email-spam-classifier-hiam.onrender.com/
+https://email-spam-classifier-hiam.onrender.com/
 
 ## Dataset
 SMS Spam Collection Dataset
